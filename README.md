@@ -1,6 +1,15 @@
-#Lab 6 - Back End
+# Lab 6 - Back End
 
 ## Step 1 - Repository Setup
+
+Estimate of time needed to complete: 10 minutes
+
+Start time: 19:20
+
+Finish time: 19:30
+
+Actual time needed to complete: 19:30
+
 .env - with your PORT. Make sure this file is in your .gitignore.
 README.md - with documentation regarding your lab and its current state of development. Check the "documentation" section below for more details on how that should look AT MINIMUM
 .gitignore - with standard NodeJS configurations
