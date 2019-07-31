@@ -16,3 +16,13 @@ README.md - with documentation regarding your lab and its current state of devel
 .eslintrc.json - with Code 301 course standards for the linter copied from previous lab
 package.json - with all dependencies and any associated details related to configuration. The dependencies needed for today's lab include: express and dotenv.
 Note that the package-lock.json file is automatically created when dependencies are installed and ensures that future installations of the project use the same versions of the dependencies.
+
+## Step 2 - Locations
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 7:40
+
+Finish time: **\_**
+
+Actual time needed to complete: **\_**
